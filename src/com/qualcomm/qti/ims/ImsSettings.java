@@ -30,8 +30,8 @@ import android.util.Log;
 import android.view.MenuItem;
 import android.widget.Toast;
 
-import com.android.ims.ImsConfig;
-import com.android.ims.ImsException;
+import android.telephony.ims.ImsConfig;
+import android.telephony.ims.ImsException;
 import com.android.ims.ImsManager;
 
 import org.codeaurora.ims.utils.QtiCallUtils;
